@@ -1,12 +1,10 @@
-# 💼 MyLava (Employee Management System)
+# 💼 Digital HR Platfrom(DHRP)
  
 ## 📜 Overview
 
-The **MyLava (Employee Management System)** is a web application designed to manage employee attendance, leave applications, admin messages and approvals. It offers a user-friendly interface with distinct functionalities for both employees and administrators. This system is built using Laravel for the backend, with Bootstrap5 and jQuery for the frontend.
+The ** Digital HR Platfrom(DHRP)** is a web application designed to manage employee attendance, leave applications, admin messages and approvals. It offers a user-friendly interface with distinct functionalities for both employees and administrators. This system is built using Laravel for the backend, with Bootstrap5 and jQuery for the frontend.
 
 
-## 📺 Video Demo
-[Screencast from 16-07-24 04:57:02 PM IST.webm](https://github.com/user-attachments/assets/01a7ff56-65b3-4fe1-90cd-71d3c43c813a)
 
 ## ✨ Features
 
@@ -45,10 +43,7 @@ The **MyLava (Employee Management System)** is a web application designed to man
 ## 📥 Installation
 
 1. **Clone the Repository**
-   ```sh
-   git clone https://github.com/obiwan04kanobi/HR-Management-System.git
-   cd HR-Management-System/WebApp
-   ```
+  
 
 2. **Install Dependencies**
    ```sh
