@@ -5,7 +5,7 @@
 The ** Digital HR Platfrom(DHRP)** is a web application designed to manage employee attendance, leave applications, admin messages and approvals. It offers a user-friendly interface with distinct functionalities for both employees and administrators. This system is built using Laravel for the backend, with Bootstrap5 and jQuery for the frontend.
 
 
-
+ 
 ## ✨ Features
 
 ### Employee Features
